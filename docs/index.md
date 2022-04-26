@@ -1,10 +1,10 @@
-## Dr James Weber
-### PDRA in Climate Change Mitigation
+# Dr James Weber
+### PDRA in Climate Change Mitigation, University of Sheffield
 
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to my website. I am a Postdoctoral Research Associate at the University of Sheffield looking at the climatic impact of widescale tree planting using the state-of-the-art chemistry-climate model UKESM. 
 
 ```markdown
 Syntax highlighted code block TESTing
@@ -30,6 +30,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JM-Weber/jm-weber.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Current Research 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Publications
+
+### PhD Research 
+
