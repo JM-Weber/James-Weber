@@ -1,4 +1,5 @@
-## Welcome to my webiste
+## Dr James Weber
+### PDRA in Climate Change Mitigation
 
 You can use the [editor on GitHub](https://github.com/JM-Weber/jm-weber.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
