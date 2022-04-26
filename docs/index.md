@@ -4,7 +4,7 @@
 
 ### About
 
-Welcome to my website. I am a Postdoctoral Research Associate at the University of Sheffield looking at the climatic impact of widescale tree planting using the state-of-the-art chemistry-climate model UKESM. 
+I am a Postdoctoral Research Associate at the University of Sheffield looking at the climatic impact of widescale tree planting using the state-of-the-art chemistry-climate model UKESM. 
 
 ```markdown
 Syntax highlighted code block TESTing
@@ -26,9 +26,11 @@ Syntax highlighted code block TESTing
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Links
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JM-Weber/jm-weber.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
+
+[LC3M](https://lc3m.org/people/dr-james-weber/)
 
 ### Current Research 
 
