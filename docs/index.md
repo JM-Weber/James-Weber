@@ -9,7 +9,7 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 
 ### Research
 
-### [Publications](./publications.md).
+### [Publications](./publications.md).  ### [PhD Research](./phd_research.md).
 
 ### Academic Background  
 - Postdoctoral Research Associate, Department of Biosciences, University of Sheffield (2021 - present)
@@ -23,6 +23,4 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
 
 [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
-
-### PhD Research 
 
