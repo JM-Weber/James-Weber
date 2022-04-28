@@ -22,7 +22,7 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 
 [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
 
-### Publications
+### [Publications](./publications.html).
 
 ### PhD Research 
 
