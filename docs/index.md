@@ -18,8 +18,9 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 
 [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
 
-[LC3M](https://lc3m.org/people/dr-james-weber/)
+[LC$^3$M](https://lc3m.org/people/dr-james-weber/)
 
+[The Conversation](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
 
 ### Publications
 
