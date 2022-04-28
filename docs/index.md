@@ -1,10 +1,10 @@
 # Dr James Weber
-### PDRA in Climate Change Mitigation, University of Sheffield
+### Postdoctoral Research Associate in Climate Change Mitigation, University of Sheffield
 
 
 ### About
 
-I am a Postdoctoral Research Associate at the University of Sheffield looking at the climatic impact of widescale tree planting using the state-of-the-art chemistry-climate model UKESM. I am assoicate of the Leverhulme Centre for Climate Change Mitigation ([LC3M](https://lc3m.org/people/dr-james-weber/)). 
+I am a Postdoctoral Research Associate at the University of Sheffield looking at the climatic impact of widescale tree planting using the state-of-the-art chemistry-climate model UKESM. I am an assoicate of the Leverhulme Centre for Climate Change Mitigation ([LC3M](https://lc3m.org/people/dr-james-weber/)). 
 
 ```markdown
 Syntax highlighted code block TESTing
