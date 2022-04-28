@@ -9,7 +9,7 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 
 ### Research
 
-### [Publications](./publications.md).     [PhD Research](./phd_research.md).
+### [Publications](./publications.md). \bigspace     [PhD Research](./phd_research.md).
 
 ### Academic Background  
 - Postdoctoral Research Associate, Department of Biosciences, University of Sheffield (2021 - present)
