@@ -12,7 +12,7 @@ I am a Postdoctoral Research Associate at the University of Sheffield looking at
 ### Academic Background
 - Postdoctoral Research Associate, Department of Biosciences, University of Sheffield (2021 - present)
 - PhD Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
-- MA, MSci Natural Sciences (Chemistry) Pembroke College University of Cambridge (2012-2016)
+- MA, MSci Natural Sciences (Chemistry) Pembroke College, University of Cambridge (2012-2016)
 
 ### External Links
 
