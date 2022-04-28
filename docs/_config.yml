@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 logo: Github_1.jpeg
 github:
   is_project_page: false
+
+plugins:
+  - jekyll-tabs
