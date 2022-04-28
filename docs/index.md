@@ -1,6 +1,5 @@
 # Dr James Weber
-### Postdoctoral Research Associate
-### Climate Change Mitigation
+### Postdoctoral Research Associate, Climate Change Mitigation
 ### University of Sheffield
 
 
