@@ -5,14 +5,14 @@
 
 ### About
 
-I am an atmospheric chemist working as a Postdoctoral Research Associate at the University of Sheffield. My current focuses on the non-CO<sub>2</sub> climate impacts of wide scale tree planting as climate change mitigation strategy.
+I am an atmospheric chemist working as a Postdoctoral Research Associate at the University of Sheffield. My current reserach focuses on the non-CO<sub>2</sub> climate impacts of wide scale tree planting as climate change mitigation strategy.
 
-I use the state-of-the-art chemistry-climate model UKESM (United Kingdom Earth System Model) to explore 
+I use the state-of-the-art chemistry-climate models UKESM (United Kingdom Earth System Model) and CESM (Community Earth System Model) to explore how changes to tree cover could affect atmospheric composition and the effects on climate. Read more [here](./research.md). 
 
 I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
 
-### [Research](./research.md)  --- [Publications](./publications.md) --- [PhD Research](./phd_research.md) --- [UKESM](./ukesm.md)
+### [Research](./research.md)  &nbsp; [Publications](./publications.md) &nbsp; [PhD Research](./phd_research.md) &nbsp; [UKESM](./ukesm.md)
 
 ### Academic Background  
 - Postdoctoral Research Associate, Department of Biosciences, University of Sheffield (2021 - present)
