@@ -20,6 +20,11 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
 
 We present one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) formation from monoterpenes suitable for use in global climate models. View [here](https://acp.copernicus.org/articles/20/10889/2020)
 
+<p align="center">
+  <img src="./figures/CRI_HOM.png" alt="Sublime's custom image"/>
+</p>
+
+
 #### Minimal climate impacts from short‐lived climate forcers following emission reductions related to the COVID‐19 pandemic (Geophysical Review Letters, 2020)
 
 In UKESM we simulate emission reductions similar to those from the COVID19 pandemic and find that changes in short lived climate forcers such as SO<sub>2</sub>, NO<sub>x</sub> and O<sub>3</sub> have a minimal impact on climate. View [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL090326)
