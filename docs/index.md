@@ -12,7 +12,7 @@ I use the state-of-the-art chemistry-climate model UKESM (United Kingdom Earth S
 I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
 
-### [Research](./research.md)  -- [Publications](./publications.md) -- [PhD Research](./phd_research.md) -- [UKESM](./ukesm.md)
+### [Research](./research.md)  --- [Publications](./publications.md) --- [PhD Research](./phd_research.md) --- [UKESM](./ukesm.md)
 
 ### Academic Background  
 - Postdoctoral Research Associate, Department of Biosciences, University of Sheffield (2021 - present)
