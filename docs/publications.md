@@ -27,7 +27,7 @@ We present one of the first schemes to describe the chemistry of highly oxygenat
   <img src="./figures/CRI_HOM.png" alt="Sublime's custom image"/>
   </p>
   <p align = "center">
-  Oxidation of alpha-pinene by ozone in CRI-HOM.  
+  New oxidation scheme of alpha-pinene by ozone in CRI-HOM.  
 </p>
 
 
