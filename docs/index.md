@@ -9,7 +9,7 @@ I am an atmospheric chemist working as a Postdoctoral Research Associate at the 
 
 I use the state-of-the-art chemistry-climate model UKESM (United Kingdom Earth System Model) to explore 
 
-I am also an assoicate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
+I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
 
 ### [Research](./research.md)  -- [Publications](./publications.md) -- [PhD Research](./phd_research.md) -- [UKESM](./ukesm.md)
