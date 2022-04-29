@@ -15,6 +15,6 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
 
 #### CRI-HOM: A novel chemical mechanism for simulating highly oxygenated organic molecules (HOMs) in global chemistry–aerosol–climate models 
 
-This paper presents one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) from $\alpha$-pinene, suitable for use in global climate models.  
+This paper presents one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) from $alpha$-pinene, suitable for use in global climate models.  
 
 View [here](https://acp.copernicus.org/articles/20/10889/2020)
