@@ -14,6 +14,7 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
 
 <p align="center">
   <img src="./CS2.png" alt="Sublime's custom image"/>
+  </p>
   <p align = "center">
   Change in boundary layer OH between old (CS) and new (CS2) chemistry.
 </p>
@@ -24,6 +25,7 @@ We present one of the first schemes to describe the chemistry of highly oxygenat
 
 <p align="center">
   <img src="./figures/CRI_HOM.png" alt="Sublime's custom image"/>
+  </p>
   <p align = "center">
   Oxidation of alpha-pinene by ozone in CRI-HOM.  
 </p>
