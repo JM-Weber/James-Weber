@@ -11,7 +11,16 @@ The United Kingdom Earth System Model (UKESM) is a global chemistry-climate mode
 
 ### My Experience with UKESM
 
-I have extensive experience running simulations in UKESM including  
+I have extensive experience setting up and running simulations in UKESM. My experience includes:
+
+- Free-running atmosphere-only experiments such as those in AerChemMIP ([Collins et al; 2017](https://gmd.copernicus.org/articles/10/585/2017/)). 
+- Modifying land surface input files in atmosphere-only mode (e.g. increasing forest cover), including converting and regridding land surface input files from a different climate model (CESM) to work in UKESM.
+- Emission perturbation experimenst (e.g. doubling BVOC emissions, creating timeseries and timeslice emission files from different future scenarioes like ssp126 and ssp370).
+- Fully coupled simulations (all components of UKESM free to interact).  
+- Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.
+- Changing the chemical reactions simulated by the model and assessing the impact ([Weber et al., 2021](https://gmd.copernicus.org/articles/14/5239/2021/)). 
+
+I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham.The involved helping students with the course exercises and explaining aspects of the model.  
 
 
 ### My contributions to UKESM
