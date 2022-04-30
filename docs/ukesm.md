@@ -20,13 +20,13 @@ I have extensive experience setting up and running simulations in UKESM. My expe
 - Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.
 - Changing the chemical reactions simulated by the model and assessing the impact ([Weber et al., 2021](https://gmd.copernicus.org/articles/14/5239/2021/)). 
 
-I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham.The involved helping students with the course exercises and explaining aspects of the model.  
+I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham. UKCA (United Kingdom Chemistry and Aerosol) is the component of UKESM whcih simulates atmospheric chemistry and aerosol processes. This role involved helping students with the course exercises and explaining aspects of the model.  
 
 
 ### My contributions to UKESM
 
 #### CRI-Strat 2
-As an atmospheric chemist I am primarily interested in processes which determine atmospheric composition. These are simulated in the United Kingdom Chemistry and Aerosols (UKCA) module of UKESM. During my PhD I led work to add and evaluate an improved chemistry mechanism called CRI-Strat 2 (CS2) in UKCA which features some of the most recent updates to isoprene chemistry with knock-on effects for oxidant concentrations and aerosol (paper [here](https://gmd.copernicus.org/articles/14/5239/2021/)). CS2 is now a selectable option in UKESM. 
+As an atmospheric chemist I am primarily interested in processes which determine atmospheric composition. These are simulated in UKCA. During my PhD I led work to add and evaluate an improved chemistry mechanism called CRI-Strat 2 (CS2) in UKCA which features some of the most recent updates to isoprene chemistry with knock-on effects for oxidant concentrations and aerosol (paper [here](https://gmd.copernicus.org/articles/14/5239/2021/)). CS2 is now a selectable option in UKESM. 
 
 #### Secondary Organic Aerosol from Isoprene
 During my PhD I improved the coupling between BVOCs and aerosol by updating the aerosol code in UKESM to allow for production of secondary organic aerosol (SOA) from isoprene in addition to its default production from monoterpenes. This significantly improves the faithfulness of SOA production, particularly in its spatial variation given that monoterpenes are emitted to a greater extent by mid and high latitude forests while isoprene emissions occurs to a much greater extent in the tropics.
