@@ -9,7 +9,9 @@ I am an atmospheric chemist and climate scientist working as a Postdoctoral Rese
 I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
 
-### [Research](./research.md)  &nbsp; [Publications](./publications.md) &nbsp;[Work with UKESM](./ukesm.md)  &nbsp; [The Long View](./long_view.md)
+### [Research](./research.md)  &nbsp; [Publications](./publications.md) &nbsp;[Work with UKESM](./ukesm.md)  &nbsp; [Teaching](./teaching.md) 
+
+### [The Long View](./long_view.md)
 
 ### Academic Background  
 - **PDRA** Department of Biosciences, University of Sheffield (2021 - present)
