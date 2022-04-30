@@ -16,7 +16,7 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
   <img src="./CS2.png" alt="Sublime's custom image"/>
   </p>
   <p align = "center">
-  Change in boundary layer OH between old (CS) and new (CS2) chemistry.
+  Change in boundary layer OH when chemical mechanism is updated from CRI-Strat (CS) to CRI-Strat 2 (CS2).
 </p>
 
 #### 2. CRI-HOM: A novel chemical mechanism for simulating highly oxygenated organic molecules (HOMs) in global chemistry–aerosol–climate models. (Atmospheric Chemistry and Physics, 2020)
@@ -33,10 +33,17 @@ We present one of the first schemes to describe the chemistry of highly oxygenat
 
 #### 3. Minimal climate impacts from short‐lived climate forcers following emission reductions related to the COVID‐19 pandemic (Geophysical Review Letters, 2020)
 
-In UKESM we simulate emission reductions similar to those from the COVID19 pandemic and find that changes in short lived climate forcers such as SO<sub>2</sub>, NO<sub>x</sub> and O<sub>3</sub> have a minimal impact on climate. View [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL090326)
-
-## In Review
-### Chemistry-driven oxidant changes strongly influence climate forcing from vegetation emissions. (Nature Geoscience)
+In UKESM we simulate emission reductions similar to those from the COVID19 pandemic and find that changes in short lived climate forcers such as SO<sub>2</sub>, NO<sub>x</sub>, O<sub>3</sub> and black carbon aerosol have a minimal impact on climate. View [here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020GL090326)
 
 ## In Prep
+### Chemistry-driven oxidant changes strongly influence climate forcing from vegetation emissions. (Nature Geoscience)
+
+<p align="center">
+  <img src="./figures/Feedback_githhub.png" alt="BVOC-feedback when (a) only organic aerosol changes are considered and when (b) changes to chemistry and oxidants are also considered. The net result is quite different."/>
+  </p>
+  <p align = "center">
+  
+</p>
+
+
 ### Updates to Isoprene and Terpene Emission Factors for the Interactive BVOC Emission Scheme (iBVOC) in the United Kingdom Earth System Model (UKESM)
