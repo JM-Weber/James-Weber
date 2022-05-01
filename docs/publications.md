@@ -50,13 +50,13 @@ In UKESM we simulate emission reductions similar to those from the COVID19 pande
 
 ## Contributing Author
 
-Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.} (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss. [preprint], https://doi.org/10.5194/acp-2022-99, in review.
+Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.} (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss. [preprint], in review, [link](https://doi.org/10.5194/acp-2022-99).
 
 \textbf{Abraham, N.L., et al} (2021) Unified Model Documentation Paper 084: United Kingdom Chemistry and Aerosol (UKCA) Technical Description
 
-\textbf{Archer-Nicholls, S., Abraham, N. L., Shin, Y. M., Weber, J., Russo, M.R., Lowe, D., Utembe, S., O'Connor, F.M., Kerridge, B., Latter, B., Siddans, R., Jenkin, M., Wild, O., \& Archibald, A.T.} (2020): The Common Representative Intermediates Mechanism version 2 in the United Kingdom Chemistry and Aerosols Model, \emph{Journal of Advances in Modeling Earth Systems},  https://doi.org/10.1029/2020MS002420. 
+\textbf{Archer-Nicholls, S., Abraham, N. L., Shin, Y. M., Weber, J., Russo, M.R., Lowe, D., Utembe, S., O'Connor, F.M., Kerridge, B., Latter, B., Siddans, R., Jenkin, M., Wild, O., \& Archibald, A.T.} (2020): The Common Representative Intermediates Mechanism version 2 in the United Kingdom Chemistry and Aerosols Model, \emph{Journal of Advances in Modeling Earth Systems},  [link](https://doi.org/10.1029/2020MS002420). 
 
-\textbf{Staunton-Sykes, J., Aubry, T. J., Shin, Y. M., Weber, J., Marshall, L. R., Abraham, N. L., Schmidt, A., and Archibald, A} (2020): Co-emission of volcanic sulfur and halogens amplifies volcanic effective radiative forcing, \emph{Atmospheric Chemistry \& Physics}, https://doi.org/10.5194/acp-21-9009-2021.
+\textbf{Staunton-Sykes, J., Aubry, T. J., Shin, Y. M., Weber, J., Marshall, L. R., Abraham, N. L., Schmidt, A., and Archibald, A} (2020): Co-emission of volcanic sulfur and halogens amplifies volcanic effective radiative forcing, \emph{Atmospheric Chemistry \& Physics}, [link](https://doi.org/10.5194/acp-21-9009-2021).
 
-\textbf{Thornhill, G., Collins, W., Olivié, D., Archibald, A., Bauer, S., Checa-Garcia, R., Fiedler, S., Folberth, G., Gjermundsen, A., Horowitz, L., Lamarque, J.-F., Michou, M., Mulcahy, J., Nabat, P., Naik, V., O'Connor, F. M., Paulot, F., Schulz, M., Scott, C. E., Seferian, R., Smith, C., Takemura, T., Tilmes, S., \& Weber, J.} (2020): Climate-driven chemistry and aerosol feedbacks in CMIP6 Earth system models. \emph{Atmospheric Chemistry \& Physics}, https://doi.org/10.5194/acp-21-1105-2021.
+\textbf{Thornhill, G., Collins, W., Olivié, D., Archibald, A., Bauer, S., Checa-Garcia, R., Fiedler, S., Folberth, G., Gjermundsen, A., Horowitz, L., Lamarque, J.-F., Michou, M., Mulcahy, J., Nabat, P., Naik, V., O'Connor, F. M., Paulot, F., Schulz, M., Scott, C. E., Seferian, R., Smith, C., Takemura, T., Tilmes, S., \& Weber, J.} (2020): Climate-driven chemistry and aerosol feedbacks in CMIP6 Earth system models. \emph{Atmospheric Chemistry \& Physics}, [link](https://doi.org/10.5194/acp-21-1105-2021).
 
