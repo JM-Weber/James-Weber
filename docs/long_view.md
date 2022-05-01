@@ -13,7 +13,13 @@ I believe there are 3 key questions at the intersection of atmospheric compositi
 #### 1. How will (non-CO<sub>2</sub>) atmospheric composition change over the course of this century under different societal development scenarios? <br />
 
 
+
+
+
 #### 2. What role will this change in atmospheric composition affect have on climate? Will this change exacerbate or oppose CO<sub>2</sub> driven warming? <br />
+
+
+
 
 
 
