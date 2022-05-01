@@ -11,10 +11,13 @@ The United Kingdom Earth System Model (UKESM) is a global chemistry-climate mode
 
 ### My Experience with UKESM
 
-I have extensive experience setting up and running simulations in UKESM. My experience includes:
+I have extensive experience setting up and running simulations in UKESM for my own work and for colleagues. My experience includes:
 
 - Free-running atmosphere-only experiments such as those in AerChemMIP ([Collins et al; 2017](https://gmd.copernicus.org/articles/10/585/2017/)). 
-- Emission perturbation experimenst (e.g. doubling BVOC emissions, creating timeseries and timeslice emission files from different future scenarios like SSP126 and SSP370).
+- Emission perturbation experiments 
+  - doubling BVOC emissions 
+  - scaling emissions of particular species 
+  - creating timeseries and timeslice emission files from different future scenarios like SSP126 and SSP370).
 - Land use/cover change experiments. This has involved modifying land surface input files in UKESM's atmosphere-only mode (e.g. increasing or decreasing forest cover) including converting and regridding land surface input files from CESM to work in UKESM.
 - Fully coupled simulations (all components of UKESM free to interact).  
 - Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.
@@ -24,7 +27,7 @@ I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses 
 
 
 ### My contributions to UKESM
-Model development is an ongoing process informed by advances in the understanding of important Earth system processes, for example the chemical reactions of major BVOCs. I view model development as the responsibility of all researchers who use the model and I have been fortunate to collaborate with colleagues at the Met Office and the Universities of Leeds and Cambridge to make some improvements to UKESM. 
+Model development is an ongoing process informed by advances in the understanding of important Earth system processes, for example the chemical reactions of major BVOCs. I view model development as the responsibility of all researchers who use the model and I have been fortunate to collaborate with colleagues at the Met Office and the Universities of Leeds and Cambridge to make some improvements to UKESM such that I am now a co-author on the technical documentation (link [here](https://code.metoffice.gov.uk/doc/um/latest/papers/umdp_084.pdf) - requires MOSRS access).
 
 #### CRI-Strat 2
 As an atmospheric chemist I am primarily interested in processes which determine atmospheric composition. These are simulated in UKCA. During my PhD I led work to add and evaluate an improved chemistry mechanism called CRI-Strat 2 (CS2) in UKCA which features some of the most recent advances in the understanding of isoprene oxidation chemistry with knock-on effects for oxidant concentrations and aerosol (paper [here](https://gmd.copernicus.org/articles/14/5239/2021/)). CS2 is now a selectable option in UKESM. 
