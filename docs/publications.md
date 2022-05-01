@@ -47,12 +47,14 @@ In UKESM we simulate emission reductions similar to those from the COVID19 pande
 
 
 ### Updates to Isoprene and Terpene Emission Factors for the Interactive BVOC Emission Scheme (iBVOC) in the United Kingdom Earth System Model (UKESM)
+<br /> 
+<br /> 
 
 ## Contributing Author
 
-**Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.** (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss. [preprint], in review, [link](https://doi.org/10.5194/acp-2022-99).
+**Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.** (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss., in review, [link](https://doi.org/10.5194/acp-2022-99).
 
-**{Abraham, N.L., et al}** (2021) Unified Model Documentation Paper 084: United Kingdom Chemistry and Aerosol (UKCA) Technical Description
+**Abraham, N.L., et al** (2021) Unified Model Documentation Paper 084: United Kingdom Chemistry and Aerosol (UKCA) Technical Description
 
 **Archer-Nicholls, S., Abraham, N. L., Shin, Y. M., Weber, J., Russo, M.R., Lowe, D., Utembe, S., O'Connor, F.M., Kerridge, B., Latter, B., Siddans, R., Jenkin, M., Wild, O., & Archibald, A.T.** (2020): The Common Representative Intermediates Mechanism version 2 in the United Kingdom Chemistry and Aerosols Model, *Journal of Advances in Modeling Earth Systems*,  [link](https://doi.org/10.1029/2020MS002420). 
 
