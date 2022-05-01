@@ -13,14 +13,14 @@ The United Kingdom Earth System Model (UKESM) is a global chemistry-climate mode
 
 I have extensive experience setting up and running simulations in UKESM for my own work and for colleagues. My experience includes:
 
-- Free-running atmosphere-only experiments such as those in AerChemMIP ([Collins et al; 2017](https://gmd.copernicus.org/articles/10/585/2017/)). 
+- Free-running atmosphere-only experiments such as those in AerChemMIP ([Collins et al; 2017](https://gmd.copernicus.org/articles/10/585/2017/)). <br /> 
 - Emission perturbation experiments 
   - doubling BVOC emissions 
   - scaling emissions of particular species 
   - creating timeseries and timeslice emission files from different future scenarios like SSP126 and SSP370).
-- Land use/cover change experiments. This has involved modifying land surface input files in UKESM's atmosphere-only mode (e.g. increasing or decreasing forest cover) including converting and regridding land surface input files from CESM to work in UKESM.
-- Fully coupled simulations (all components of UKESM free to interact).  
-- Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.
+- Land use/cover change experiments. This has involved modifying land surface input files in UKESM's atmosphere-only mode (e.g. increasing or decreasing forest cover) including converting and regridding land surface input files from CESM to work in UKESM.<br /> 
+- Fully coupled simulations (all components of UKESM free to interact).  <br /> 
+- Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.<br /> 
 - Changing the chemical and aerosol processes simulated by the model and assessing the impact (e.g. [Weber et al., 2021](https://gmd.copernicus.org/articles/14/5239/2021/)). 
 
 I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham. UKCA (United Kingdom Chemistry and Aerosol) is the component of UKESM which simulates atmospheric chemistry and aerosol processes. This demonstrating role involved helping students with the course's exercises and explaining aspects of the model.  
