@@ -6,7 +6,7 @@ layout: default
 
 [Back to Home](./)
 
-During my PhD I taught a range of courses and supervised several research students. 
+During my PhD I taught a range of undergraduate and postgraduate courses and supervised several research students. 
 
 ## Undergraduate Teaching
 - **1<sup>st</sup> year Chemistry** - Molecular Structure, Kinetics, Thermodynamics, Organic & Inorganic Chemistry <br /> I supervised 8 undergraduates from Pembroke College for the whole Part IA Chemistry course during the 2018-19 and 2019-20 academic years.
