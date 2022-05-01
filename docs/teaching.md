@@ -9,15 +9,15 @@ layout: default
 During my PhD I taught a range of undergraduate and postgraduate courses and supervised several research students. I enjoy teaching and supervising researchers and would be keen to continue these roles in the future. 
 
 ## Undergraduate Teaching
-- **1<sup>st</sup> year Chemistry** - Molecular Structure, Kinetics, Thermodynamics, Organic & Inorganic Chemistry <br /> I supervised 8 undergraduates from Pembroke College for the whole Part IA Chemistry course during the 2018-19 and 2019-20 academic years.
+- **1<sup>st</sup> year Chemistry**<br /> Molecular Structure, Kinetics, Thermodynamics, Organic & Inorganic Chemistry <br /> I supervised 8 undergraduates from Pembroke College for the whole Part IA Chemistry course during the 2018-19 and 2019-20 academic years.
 
-- **3<sup>rd</sup> year Atmospheric Chemistry** - Introduction to Stratospheric and Tropospheric Chemistry
+- **3<sup>rd</sup> year Atmospheric Chemistry** <br /> Introduction to Stratospheric and Tropospheric Chemistry
 <br /> I supervised 5 undergraduates during the 2018-19 academic year.
 
-- **4<sup>th</sup>  year Atmospheric Chemistry and Global Change** - Interdisciplinary Course
+- **4<sup>th</sup>  year Atmospheric Chemistry and Global Change**<br /> Interdisciplinary Course
 <br /> I supervised 6 undergraduates during the 2019-20 academic year.
 
-- **1<sup>st</sup> year Laboratory Demonstrator**
+- **1<sup>st</sup> year Laboratory Demonstrator**<
 <br /> I demonstrated for 9 undergraduates during the 2018-2019 academic year in the Part IA practical course including marking experimental reports.
 
 ## Postgraduate Teaching
