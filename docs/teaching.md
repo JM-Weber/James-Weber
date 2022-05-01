@@ -9,24 +9,24 @@ layout: default
 During my PhD I taught a range of courses and supervised several researct students. 
 
 ## Undergraduate Teaching
-- 1<sup>st</sup> year Chemistry - Molecular Structure, Kinetics, Thermodynamics, Organic & Inorganic Chemistry <br /> I supervised 8 undergraduates from Pembroke College for the whole Part IA Chemistry course during the 2018-19 and 2019-20 academic years.
+- **1<sup>st</sup> year Chemistry** - Molecular Structure, Kinetics, Thermodynamics, Organic & Inorganic Chemistry <br /> I supervised 8 undergraduates from Pembroke College for the whole Part IA Chemistry course during the 2018-19 and 2019-20 academic years.
 
-- 3<sup>rd</sup> year Atmospheric Chemistry - Introduction to Stratospheric and Tropospheric Chemistry
+- **3<sup>rd</sup> year Atmospheric Chemistry** - Introduction to Stratospheric and Tropospheric Chemistry
 <br /> I supervised 5 undergraduates during the 2018-19 academic year.
 
-- 4<sup>th</sup>  year Atmospheric Chemistry and Global Change - Interdisciplinary Course
+- **4<sup>th</sup>  year Atmospheric Chemistry and Global Change** - Interdisciplinary Course
 <br /> I supervised 6 undergraduates during the 2019-20 academic year.
 
-- 1<sup>st</sup> year Laboratory Demonstrator
+- **1<sup>st</sup> year Laboratory Demonstrator**
 <br /> I demonstrated for 9 undergraduates during the 2018-2019 academic year in the Part IA practical course including marking experimental reports.
 
 ## Postgraduate Teaching
-- 4<sup>th</sup> year MSci Supervisor - Atmospheric Chemistry<br /> 
+- **4<sup>th</sup> year MSci Supervisor - Atmospheric Chemistry**<br /> 
 I supervised 2 Part III MSci projects in Atmospheric Chemistry looking at:
     * Using observations from aircraft to evaluate chemical mechanisms and machine learning approaches. 
     * Comparing modelled O<sub>3</sub> changes from the COVID19 pandemic to observations.
 
-- UKCA Climate Model Training Course 2021, 2022<br /> 
+- **UKCA Climate Model Training Course 2021, 2022<br />**
 I demonstrated on the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham. This demonstrating role involved helping students with the course's exercises and explaining aspects of the model.  
 
 ## University Bridging Courses
