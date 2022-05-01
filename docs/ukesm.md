@@ -24,9 +24,10 @@ I have also acted as a demonstrator for the 2021 and 2022 UKCA training courses 
 
 
 ### My contributions to UKESM
+Model development is an ongoing process informed by advances in the understanding of important Earth system processes, for example the chemical reactions of major BVOCs. I view model development as the responsibility of all researchers who use the model and I have been fortunate to collaborate with colleagues at the Met Office and the Universities of Leeds and Cambridge to make some improvements to UKESM. 
 
 #### CRI-Strat 2
-As an atmospheric chemist I am primarily interested in processes which determine atmospheric composition. These are simulated in UKCA. During my PhD I led work to add and evaluate an improved chemistry mechanism called CRI-Strat 2 (CS2) in UKCA which features some of the most recent updates to isoprene chemistry with knock-on effects for oxidant concentrations and aerosol (paper [here](https://gmd.copernicus.org/articles/14/5239/2021/)). CS2 is now a selectable option in UKESM. 
+As an atmospheric chemist I am primarily interested in processes which determine atmospheric composition. These are simulated in UKCA. During my PhD I led work to add and evaluate an improved chemistry mechanism called CRI-Strat 2 (CS2) in UKCA which features some of the most recent advances in the understanding of isoprene oxidation chemistry with knock-on effects for oxidant concentrations and aerosol (paper [here](https://gmd.copernicus.org/articles/14/5239/2021/)). CS2 is now a selectable option in UKESM. 
 
 #### Secondary Organic Aerosol from Isoprene
 During my PhD I improved the coupling between BVOCs and aerosol by updating the aerosol code in UKESM to allow for production of secondary organic aerosol (SOA) from isoprene in addition to its default production from monoterpenes. This significantly improves the faithfulness of SOA production, particularly in its spatial variation given that monoterpenes are emitted to a greater extent by mid and high latitude forests while isoprene emissions occurs to a much greater extent in the tropics. Working with Dr Colin Johnson at the Met Office, SOA production from isoprene will be a selectable option in UKESM from vn12.3. 
