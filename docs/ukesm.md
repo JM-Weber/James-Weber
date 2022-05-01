@@ -32,7 +32,7 @@ As an atmospheric chemist I am primarily interested in processes which determine
 #### Secondary Organic Aerosol from Isoprene
 During my PhD I improved the coupling between BVOCs and aerosol by updating the aerosol code in UKESM to allow for production of secondary organic aerosol (SOA) from isoprene in addition to its default production from monoterpenes. This significantly improves the faithfulness of SOA production, particularly in its spatial variation given that monoterpenes are emitted to a greater extent by mid and high latitude forests while isoprene emissions occurs to a much greater extent in the tropics. Working with Dr Colin Johnson at the Met Office, SOA production from isoprene will be a selectable option in UKESM from vn12.3. 
 
-<a name="ef"></a>
+<a id="ef"></a>
 #### Isoprene and Monoterpenes Emission Factors 
 UKESM simulates isoprene and monoterpene emissions interactively, combining parameteristions for the effect of temperature, CO<sub>2</sub> concentration, photosynthetic activity and the propensity of different types of  vegetation (grasses, evergreen trees, deciduous trees etc.) to emit these species. The latter is described by each type of vegetation's emission factor and I am currently working on developing a new set of emission factors which will improve the simulation of BVOC emissions. This will be particularly important for modelling future climate scenarios as changes to the land use and land cover (e.g. deforesation for agriculuture or afforestation to remove CO,sub>2</sub>) are likely to have significant impacts on BVOC emissions.
 
