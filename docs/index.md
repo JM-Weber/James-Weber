@@ -11,7 +11,7 @@ I am an atmospheric chemist and climate scientist working as a Postdoctoral Rese
 
 I am most interested in how the chemical composition of our atmosphere is changing and how this will affect climate. My current research focuses on the non-CO<sub>2</sub> climate impacts of wide scale tree planting as climate change mitigation strategy. I use the state-of-the-art chemistry-climate models [UKESM](https://ukesm.ac.uk) (United Kingdom Earth System Model) and [CESM](https://www.cesm.ucar.edu) (Community Earth System Model) to explore how changes to tree cover could affect atmospheric composition and climate. Read more [here](./research.md). 
 
-I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
+I am part of Dr Maria Val Martin's group at Sheffield and also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
 
 ### Academic Background  
