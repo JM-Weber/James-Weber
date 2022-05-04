@@ -17,7 +17,7 @@ I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([
 
 ### Academic Background  
 - **PDRA** Department of Biosciences, University of Sheffield (2021 - present)
-- **PhD** *Improving the understanding of the influence of biogenic volatile organic compounds emissions on climate* Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
+- **PhD** *Improving the understanding of the influence of emissions of biogenic volatile organic compounds on climate* Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
 - **MA, MSci** Natural Sciences (Chemistry) Pembroke College, University of Cambridge (2012-2016)
 
 ### External Links
