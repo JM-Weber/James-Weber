@@ -2,6 +2,9 @@
 ### Postdoctoral Research Associate, Climate Change Mitigation
 ### University of Sheffield
 
+### [Research](./research.md)  &nbsp; &nbsp; [Publications](./publications.md) &nbsp; &nbsp;[Work with UKESM](./ukesm.md) &nbsp; &nbsp; [Teaching](./teaching.md)  
+
+### [The Long View](./long_view.md)
 
 
 I am an atmospheric chemist and climate scientist working as a Postdoctoral Research Associate at the University of Sheffield. My academic background is in modelling the gas phase chemical reactions of biogenic volatile organic compounds (BVOCs) emitted by vegetation and their effect on climate.
@@ -10,10 +13,6 @@ I am most interested in how the chemical composition of our atmosphere is changi
 
 I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
-
-### [Research](./research.md)  &nbsp; &nbsp; [Publications](./publications.md) &nbsp; &nbsp;[Work with UKESM](./ukesm.md) &nbsp; &nbsp; [Teaching](./teaching.md) 
-
-### [The Long View](./long_view.md)
 
 ### Academic Background  
 - **PDRA** Department of Biosciences, University of Sheffield (2021 - present)
