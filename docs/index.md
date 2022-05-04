@@ -25,5 +25,6 @@ I am also an associate of the Leverhulme Centre for Climate Change Mitigation ([
 - [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
 - [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
 - [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
+- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
 - [Twitter](https://twitter.com/Atmos_Pem)
 
