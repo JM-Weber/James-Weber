@@ -2,8 +2,6 @@
 ### Postdoctoral Research Associate, Climate Change Mitigation
 ### University of Sheffield
 
-[j.weber@sheffield.ac.uk](j.weber@sheffield.ac.uk)
-
 ### [Research](./research.md)  &nbsp; &nbsp; [Publications](./publications.md) &nbsp; &nbsp;[Work with UKESM](./ukesm.md) &nbsp; &nbsp; [Teaching](./teaching.md)  
 
 ### [The Long View](./long_view.md)
