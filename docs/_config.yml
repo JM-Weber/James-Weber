@@ -10,6 +10,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
+favicon: true
 
 sidebar:
   - name: Google Scholar
