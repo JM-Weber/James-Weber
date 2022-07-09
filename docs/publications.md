@@ -24,7 +24,7 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
 We present one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) formation from monoterpenes suitable for use in global climate models. View [here](https://acp.copernicus.org/articles/20/10889/2020)
 
 <p align="center">
-  <img src="./figures/CRI_HOM.png" alt="Sublime's custom image"/, width="450" height="600">
+  <img src="./figures/CRI_HOM.png" alt="Sublime's custom image" width="450" height="600"/>
   </p>
   <p align = "center">
   New oxidation scheme of alpha-pinene by ozone in CRI-HOM.  
