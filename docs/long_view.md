@@ -23,4 +23,4 @@ I believe there are 3 key questions at the intersection of atmospheric compositi
 
 
 
-#### 3. How will changing atmospheric composition impact the effectiveness of climate change mitigation strategies such as re/afforestation or marine cloud brightening?  
+#### 3. What role will atmospheric composition play in the effectiveness of climate change mitigation strategies such as re/afforestation or marine cloud brightening? 
