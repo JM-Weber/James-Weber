@@ -18,15 +18,15 @@ I have extensive experience setting up and running simulations in UKESM for my o
 - Emission perturbation experiments 
   - doubling BVOC emissions 
   - scaling emissions of particular species 
-  - creating timeseries and timeslice emission files from different future scenarios like SSP126 and SSP370).
+  - creating timeseries and timeslice emission files from different future scenarios like SSP1-2.6 and SSP3-7.0.
 
 - Land use/cover change experiments. This has involved modifying land surface input files in UKESM's atmosphere-only mode (e.g. increasing or decreasing forest cover) including converting and regridding land surface input files from CESM to work in UKESM.<br /> 
 
 
-- Fully coupled simulations (all components of UKESM free to interact).  <br /> 
+- Fully coupled simulations where all components of the climate (atmosphere, land surface, oceans and cryosphere) can interact.  <br /> 
 
 
-- Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observations.<br /> 
+- Nudged atmosphere-only experiments with high frequency output for comparison against surface, aircraft and satellite observational data.<br /> 
 
 
 - Changing the chemical and aerosol processes simulated by the model and assessing the impact (e.g. [Weber et al., 2021](https://gmd.copernicus.org/articles/14/5239/2021/)). 
