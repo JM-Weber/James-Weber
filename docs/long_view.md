@@ -8,7 +8,9 @@ layout: default
 
 This page is more of a blog post of my thoughts about the key challenges in atmospheric chemistry and its role in climate science. It is by no means exhaustive or even correct, rather opinions of mine formed after discussion with colleagues and reviews of the literature.
 
-I believe there are 3 key questions at the intersection of atmospheric composition and climate.
+Climate change is primarily driven by increases in atmospheric CO<sub>2</sub> concentrations. However, changes to the concentrations of other gases and aerosol will also play an important role in future climate and our efforts to prevent severe cliamte change. 
+
+In my view , three of the key questions at the intersection of atmospheric composition and climate are: 
 
 #### 1. How will (non-CO<sub>2</sub>) atmospheric composition change over the course of this century under different societal development scenarios?  
 
