@@ -2,10 +2,6 @@
 ### Postdoctoral Research Associate, Climate Change Mitigation
 ### University of Sheffield
 
-### [Research](./research.md)  &nbsp; &nbsp; [Publications](./publications.md) &nbsp; &nbsp;[Work with UKESM](./ukesm.md) &nbsp; &nbsp; [Teaching](./teaching.md)  
-
-### [The Long View](./long_view.md) &nbsp; &nbsp; [CV](./cv/J_Weber_CV.pdf)
-
 
 I am an atmospheric chemist and climate scientist working as a Postdoctoral Research Associate at the University of Sheffield. My academic background is in modelling the gas phase chemical reactions of biogenic volatile organic compounds (BVOCs) emitted by vegetation and their effect on climate.
 
@@ -19,11 +15,11 @@ I am part of Dr Maria Val Martin's group at Sheffield and also an associate of t
 - **PhD** *Improving the understanding of the influence of emissions of biogenic volatile organic compounds on climate* Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
 - **MA, MSci** Natural Sciences (Chemistry) Pembroke College, University of Cambridge (2012-2016)
 
-%### External Links
+### External Links
 
-%- [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
-%- [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
-%- [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
-%- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
-%- [Twitter](https://twitter.com/Atmos_Pem)
+- [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
+- [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
+- [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
+- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
+- [Twitter](https://twitter.com/Atmos_Pem)
 
