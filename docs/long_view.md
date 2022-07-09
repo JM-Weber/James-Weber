@@ -16,11 +16,11 @@ I believe there are 3 key questions at the intersection of atmospheric compositi
 
 
 
-#### 2. What role will this change in atmospheric composition affect have on climate? Will this change exacerbate or oppose CO<sub>2</sub> driven warming?   
+#### 2. What role will this change in atmospheric composition have have on climate? Will this change exacerbate or oppose CO<sub>2</sub> driven warming?   
 
 
 
 
 
 
-#### 3. How will the changing atmospheric composition influence the effectiveness of climate change mitigation strategies such as re/afforestation or marine cloud brightening?  
+#### 3. How will changing atmospheric composition impact the effectiveness of climate change mitigation strategies such as re/afforestation or marine cloud brightening?  
