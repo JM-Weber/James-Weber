@@ -19,11 +19,11 @@ I am part of Dr Maria Val Martin's group at Sheffield and also an associate of t
 - **PhD** *Improving the understanding of the influence of emissions of biogenic volatile organic compounds on climate* Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
 - **MA, MSci** Natural Sciences (Chemistry) Pembroke College, University of Cambridge (2012-2016)
 
-### External Links
+%### External Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
-- [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
-- [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
-- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
-- [Twitter](https://twitter.com/Atmos_Pem)
+%- [Google Scholar](https://scholar.google.com/citations?user=duDLXbIAAAAJ&hl=en&oi=sra)
+%- [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
+%- [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
+%- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
+%- [Twitter](https://twitter.com/Atmos_Pem)
 
