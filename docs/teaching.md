@@ -29,6 +29,9 @@ I supervised 2 Part III MSci projects in Atmospheric Chemistry looking at:
 - **MPhil Assistant Supervisor - Atmospheric Chemistry**<br /> 
 Developing and evaluating an improved scheme for DMS chemistry in UKCA.
 
+- **MSc Supervisor - Atmospheric Chemistry**<br /> 
+I generated model data for a student and advised them on analysis techniques to investigate how tree planting may affect surface air quality. 
+
 - **UKCA Climate Model Training Course 2021, 2022<br />**
 I demonstrated on the 2021 and 2022 UKCA training courses (link [here](https://www.ukca.ac.uk/wiki/index.php/UKCA_Chemistry_and_Aerosol_Tutorials_at_vn11.8)) run by Dr N. Luke Abraham. This demonstrating role involved helping students with the course's exercises and explaining aspects of the model.  
 
