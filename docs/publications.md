@@ -13,7 +13,7 @@ layout: default
 This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) chemistry scheme in UKCA. We compare model performance using CS2 with other mechanisms in UKCA against observational datasets and, through sensitivity tests, isolate the impact of the changes to the chemistry of isoprene, O(<sup>1</sup>D), inorganic nitrogen and RO<sub>2</sub>+NO reactions. View [here](https://gmd.copernicus.org/articles/14/5239/2021/).
 
 <p align="center">
-  <img src="./CS2.png" alt="Sublime's custom image"  width="400" height="230"/>
+  <img src="./CS2.png" alt="Sublime's custom image"  width="400" height="270"/>
   </p>
   <p align = "center">
   Change in boundary layer OH when chemical mechanism is updated from CRI-Strat (CS) to CRI-Strat 2 (CS2).
