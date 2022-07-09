@@ -16,12 +16,12 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
   <img src="./CS2.png" alt="Sublime's custom image"  width="400" height="270"/>
   </p>
   <p align = "center">
-  Change in boundary layer OH when chemical mechanism is updated from CRI-Strat (CS) to CRI-Strat 2 (CS2).
+  Change in boundary layer OH when UKESM's chemical mechanism is updated from CRI-Strat (CS) to CRI-Strat 2 (CS2).
 </p>
 
 #### 2. CRI-HOM: A novel chemical mechanism for simulating highly oxygenated organic molecules (HOMs) in global chemistry–aerosol–climate models. (Atmospheric Chemistry and Physics, 2020)
 
-We present one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) formation from monoterpenes suitable for use in global climate models. View [here](https://acp.copernicus.org/articles/20/10889/2020)
+We present one of the first schemes to describe the chemistry of highly oxygenated organic molcules (HOMs) formation from monoterpenes suitable for use in global climate models. HOMs are important as they can participate in aerosol nucleation, including without sulphuric acid. View [here](https://acp.copernicus.org/articles/20/10889/2020)
 
 <p align="center">
   <img src="./figures/CRI_HOM.png" alt="Sublime's custom image" width="400" height="530"/>
