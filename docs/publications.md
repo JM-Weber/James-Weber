@@ -38,11 +38,9 @@ In UKESM we simulate emission reductions similar to those from the COVID19 pande
 ## In Review
 ### Chemistry-driven  changes strongly influence climate forcing from vegetation emissions. (Nature Communications)
 <br /> 
-<br /> 
 
 ## In Prep
 ### Updates to Isoprene and Terpene Emission Factors for the Interactive BVOC Emission Scheme (iBVOC) in the United Kingdom Earth System Model (UKESM)
-<br /> 
 <br /> 
 
 ## Contributing Author
