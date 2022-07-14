@@ -17,7 +17,7 @@ During my PhD I taught a range of undergraduate and postgraduate courses and sup
 - **4<sup>th</sup>  year Atmospheric Chemistry and Global Change**<br /> Interdisciplinary Course
 <br /> I supervised 6 undergraduates during the 2019-20 academic year.
 
-- **1<sup>st</sup> year Laboratory Demonstrator**<
+- **1<sup>st</sup> year Laboratory Demonstrator**
 <br /> I demonstrated for 9 undergraduates during the 2018-2019 academic year in the Part IA practical course including marking experimental reports.
 
 ## Postgraduate Teaching
