@@ -10,8 +10,8 @@ layout: default
 The United Kingdom Earth System Model ([UKESM](https://ukesm.ac.uk)) is a global chemistry-climate model which simulates all aspects of the Earth System including the atmosphere, the land surface, the ocean and the cryosphere and the interactions between these components. UKESM was one of the major climate models which contributed to the 6<sup>th</sup> Coupled Model Intercomparison project (CMIP6) which contributed to the evidence base of the IPCC 6<sup>th</sup> Assessment Report in 2021 (AR6). A detailed description of UKESM can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001739). 
 
 ### My Experience with UKESM
-
-I have extensive experience setting up and running simulations in UKESM for my own work and for colleagues which allows me to run a wide of experiments. My experience includes:
+nd 
+I have extensive experience setting up and running a wide range of simulations in UKESM on the MONSOON and ARCHER2 supercomputers for my own work and for colleagues. My experience includes:
 
 - Free-running atmosphere-only experiments such as those in AerChemMIP ([Collins et al; 2017](https://gmd.copernicus.org/articles/10/585/2017/)). <br /> 
 
@@ -19,6 +19,7 @@ I have extensive experience setting up and running simulations in UKESM for my o
   - doubling BVOC emissions 
   - scaling emissions of particular species 
   - creating timeseries and timeslice emission files from different future scenarios like SSP1-2.6 and SSP3-7.0.
+   - modifying emission factors from vegetation. 
 
 - Land use/cover change experiments. This has involved modifying land surface input files in UKESM's atmosphere-only mode (e.g. increasing or decreasing forest cover) including converting and regridding land surface input files from CESM to work in UKESM.<br /> 
 
