@@ -14,11 +14,11 @@ However, changes to the concentrations of other gases and aerosols will also pla
 
 In my view, four key questions at the intersection of atmospheric composition and climate are: 
 
-#### 1. How will (non-CO<sub>2</sub>) atmospheric composition change over the course of this century under different societal development scenarios?  
+#### 1. How will (non-CO<sub>2</sub>) atmospheric composition change over the course of this century under different societal development scenarios which range from those which simulate extensive efforts to reduce GHGs and improve air pollution to those which assume business-as-usual behaviour?  
 
 
 
-#### 2. What role will this change in atmospheric composition have have on climate? In other words, will these changes exacerbate or oppose CO<sub>2</sub>-driven warming?   
+#### 2. What role will this change in atmospheric composition have on climate? In other words, will these changes exacerbate or oppose CO<sub>2</sub>-driven warming?   
 
 
 
