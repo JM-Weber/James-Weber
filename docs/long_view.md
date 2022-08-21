@@ -22,7 +22,7 @@ In my view, four key questions at the intersection of atmospheric composition an
 
 
 
-#### 3. How will proposed climate change mitigation strategies, such as a wide scale tree planting or marine cloud brightening, change atmospheric composition and climate? 
+#### 3. How will proposed climate change mitigation strategies, such as a wide scale tree planting or marine cloud brightening, change atmospheric composition, planetary albedo, and climate? 
 
 
 
