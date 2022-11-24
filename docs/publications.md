@@ -42,6 +42,14 @@ In UKESM we show that the climate response to a doubling of BVOCs depends strong
 
 View [here](https://www.nature.com/articles/s41467-022-34944-9)
 
+<p align="center">
+  <img src="./figures/Fig_5_new.pdf" alt="Sublime's custom image" width="400" height="530"/>
+  </p>
+  <p align = "center">
+  New oxidation scheme of alpha-pinene by ozone in CRI-HOM.  
+</p>
+
+
 <br /> 
 
 ## In Review
