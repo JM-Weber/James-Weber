@@ -43,7 +43,7 @@ In UKESM we show that the climate response to a doubling of BVOCs depends strong
 View [here](https://www.nature.com/articles/s41467-022-34944-9)
 
 <p align="center">
-  <img src="./figures/Fig_5_png.png" alt="Sublime's custom image" width="550" height="530"/>
+  <img src="./figures/Fig_5_png.png" alt="Sublime's custom image" width="275" height="265"/>
   </p>
   <p align = "center">
 </p>
