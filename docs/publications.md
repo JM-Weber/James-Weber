@@ -60,7 +60,7 @@ View [here](https://www.nature.com/articles/s41467-022-34944-9)
 
 ## Contributing Author
 
-**Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.** (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss., in review, [link](https://doi.org/10.5194/acp-2022-99).
+**Russo, M. R., Kerridge, B. J., Abraham, N. L., Keeble, J., Latter, B. G., Siddans, R., Weber, J., Griffiths, P. T., Pyle, J. A., and Archibald, A. T.** (2022): Seasonal, interannual and decal variability of Tropospheric Ozone in the North Atlantic: Comparison of UM-UKCA and remote sensing observations for 2005–2018, Atmos. Chem. Phys. Discuss., accepted [link](https://doi.org/10.5194/acp-2022-99).
 
 **Abraham, N.L., et al** (2021) Unified Model Documentation Paper 084: United Kingdom Chemistry and Aerosol (UKCA) Technical Description
 
