@@ -1,5 +1,5 @@
 ---
-layout: test_2
+layout: test
 ---
 
 # Publications
