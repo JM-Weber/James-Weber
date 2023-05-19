@@ -51,10 +51,12 @@ View [here](https://www.nature.com/articles/s41467-022-34944-9)
 
 <br /> 
 
-## In Review
-### Updates to Isoprene and Terpene Emission Factors for the Interactive BVOC Emission Scheme (iBVOC) in the United Kingdom Earth System Model (UKESM)
+#### 5. Updates to Isoprene and Terpene Emission Factors for the Interactive BVOC Emission Scheme (iBVOC) in the United Kingdom Earth System Model (UKESM) [accepted]
 
+This paper aims to improve the emission factors of isoprene and monterpenes for the 13 plant fucntional types in UKESM. We show how these changes lead to be more realistic chanegs to emissions under major land cover change scenarios. 
 [Link](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-748/egusphere-2022-748.pdf)
+
+
 
 <br /> 
 
