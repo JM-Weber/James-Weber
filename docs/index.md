@@ -17,7 +17,7 @@ I am part of Dr Maria Val Martin's group at Sheffield and also an associate of t
 
 ### External Links
 
-- [LC<sup>3</sup>M Profile](https://lc3m.org/people/dr-james-weber/)
+- [Sheffield Profile](https://www.sheffield.ac.uk/biosciences/people/research-staff/james-weber)
 - [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
 - [Val Martin Group Website](https://mariavalmartin.wordpress.com)
 - [Twitter](https://twitter.com/Atmos_Pem)
