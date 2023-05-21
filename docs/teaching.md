@@ -20,6 +20,9 @@ During my PhD I taught a range of undergraduate and postgraduate courses and sup
 - **1<sup>st</sup> year Laboratory Demonstrator**
 <br /> I demonstrated for 9 undergraduates during the 2018-2019 academic year in the Part IA practical course including marking experimental reports.
 
+- **Guest Lecturer**
+I gave a guest lecture to 1<sup>st</sup> year undergraduates at Sheffield on CO<sub>2</sub> removal strategies and some of the indirect climatic impacts.
+
 ## Postgraduate Teaching
 - **4<sup>th</sup> year MSci Supervisor - Atmospheric Chemistry**<br /> 
 I supervised 2 Part III MSci projects in Atmospheric Chemistry looking at:
