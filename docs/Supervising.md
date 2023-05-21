@@ -2,6 +2,10 @@
 layout: test
 ---
 
+# Supervising
+
+[Back to Home](./)
+
 
 - **SURE Undergraduate Rseeach Student - The effect of the Clean Air Zone in Sheffield**<br /> 
 I submitted a research proposal and recieved £1250 to fund an undergradaute research project for 6 weeks over summer 2023 as part of the University of Sheffield's [SURE](https://sites.google.com/sheffield.ac.uk/sure2023/home) scheme facilitating undergraduate research. The project aism to assess the impact of the [Clean Air Zone](https://www.sheffield.gov.uk/campaigns/clean-air-zone-sheffield) introduced by SHeffield City Coundil on 27<sup>th<\sup> February 2023 by applying statistical techniques to air quality measuremenst across the city.    
