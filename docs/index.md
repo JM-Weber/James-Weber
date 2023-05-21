@@ -9,6 +9,8 @@ I am most interested in how the chemical composition of our atmosphere is changi
 
 I am part of Dr Maria Val Martin's group at Sheffield and also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
 
+I have been selected to attend the Seventeenth Atmospheric Chemistry Colloquium for Emerging Senior Scientists,[ACCESS XVII]([https://lc3m.org](https://www.bnl.gov/accesscolloquium/), at Brookhaven National Laboratory as one of 25 attendees from 90 applicants. .
+
 
 ### Academic Background  
 - **PDRA** Department of Biosciences, University of Sheffield (2021 - present)
