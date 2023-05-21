@@ -15,9 +15,9 @@ I supervised 2 Part III MSci projects in Atmospheric Chemistry looking at:
     * Using observations from aircraft to evaluate chemical mechanisms and machine learning approaches (2019-2020) - Seb Hickman (now PhD student at Cambridge).
     * Comparing modelled O<sub>3</sub> changes from the COVID19 pandemic to observations (2020-2021) - Shengxian Ke. 
     
-- **MPhil Assistant Supervisor - Atmospheric Chemistry, Cambridge***<br /> 
-Developing and evaluating an improved scheme for DMS chemistry in UKCA (2020-2021). - Ben Cala (now PhD student at NIOZ), paper in review in ACP ([link](https://acp.copernicus.org/preprints/acp-2023-42/)). 
+- **MPhil Assistant Supervisor - Atmospheric Chemistry, Cambridge**<br /> 
+Developing and evaluating an improved scheme for DMS chemistry in UKCA (2020-2021) - Ben Cala (now PhD student at NIOZ), paper in review in ACP ([link](https://acp.copernicus.org/preprints/acp-2023-42/)). 
 
-- **MSc Supervisor - Atmospheric Chemistry, Sheffield***<br /> 
+- **MSc Supervisor - Atmospheric Chemistry, Sheffield**<br /> 
 I generated model data for a student and advised them on analysis techniques to investigate how tree planting may affect surface air quality. 
 
