@@ -23,7 +23,7 @@ During my PhD I taught a range of undergraduate and postgraduate courses and sup
 - **Guest Lecturer**
 I gave a guest lecture to 1<sup>st</sup> year undergraduates at Sheffield on CO<sub>2</sub> removal strategies and some of the indirect climatic impacts.
 
--- **University Bridging Courses**
+- **University Bridging Courses**
 I have extensive experience (c. 700 hours) teaching Mathematics, Chemistry and Physics at sixth form-level and have written several short courses on Chemistry and Mathematics topics which bridge the gap between sixth form and University-level study. These are designed to make the transition easier for students and are available to all incoming Natural Scientists at Pembroke. An example can be seen [here](https://oxbridge-science-academy.github.io.).
 
 
