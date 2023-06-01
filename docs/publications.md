@@ -14,7 +14,7 @@ This paper presents the incoporation and evaluation of the CRI-Strat 2 (CS2) che
 
 <p align="center">
   <img src="./CS2.png" alt="Sublime's custom image"  width="400" height="270"/>
-  </p>
+    </p>
   <p align = "center">
   Change in boundary layer OH when UKESM's chemical mechanism is updated from CRI-Strat (CS) to CRI-Strat 2 (CS2).
 </p>
