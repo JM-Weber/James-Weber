@@ -1,19 +1,21 @@
 # Dr James Weber
-### Postdoctoral Research Associate, Climate Change Mitigation
-### University of Sheffield
+### Lecturer (Assistant Professor) in Atmospheric Radiation, Composition and Climate
+
+### University of Reading
 
 
-I am an atmospheric chemist and climate scientist working as a Postdoctoral Research Associate at the University of Sheffield. My academic background is in modelling the gas phase chemical reactions of biogenic volatile organic compounds (BVOCs) emitted by vegetation and their effect on climate.
+I am an atmospheric chemist and climate scientist and hold a lectureship in Atmospheric Radiation, Composition and Climate at the University of Reading. My academic background is in modelling the gas phase chemical reactions of biogenic volatile organic compounds (BVOCs) emitted by vegetation and their effect on climate.
 
-I am most interested in how the chemical composition of our atmosphere is changing and how this will affect climate. My current research focuses on the non-CO<sub>2</sub> climate impacts of wide scale tree planting as a climate change mitigation strategy. I use data from the state-of-the-art chemistry-climate models [UKESM](https://ukesm.ac.uk) (United Kingdom Earth System Model) and [CESM](https://www.cesm.ucar.edu) (Community Earth System Model) to explore how changes to forest cover could affect atmospheric composition and climate. Read more [here](./research.md). 
+I am most interested in how the chemical composition of our atmosphere is changing, how this will affect climate and the influence of various climate change mitigation strategies such as tree planting. My most recent research has focused on the non-CO<sub>2</sub> climate impacts of wide scale tree planting as a climate change mitigation strategy. I use data from the state-of-the-art chemistry-climate models [UKESM](https://ukesm.ac.uk) (United Kingdom Earth System Model) and [CESM](https://www.cesm.ucar.edu) (Community Earth System Model) to explore how changes to forest cover could affect atmospheric composition and climate. Read more [here](./research.md). 
 
-I am part of Dr Maria Val Martin's group at Sheffield and also an associate of the Leverhulme Centre for Climate Change Mitigation ([LC<sup>3</sup>M](https://lc3m.org)). 
+Before my lectureship, I was a post doctoral research aassociate in Dr Maria Val Martin's group at Sheffield and did my PhD with Professor Alex Archibald at the University of Cambridge. 
 
-I have been selected to attend the Seventeenth Atmospheric Chemistry Colloquium for Emerging Senior Scientists, [ACCESS XVII](https://www.bnl.gov/accesscolloquium), at Brookhaven National Laboratory. 
+I attended the Seventeenth Atmospheric Chemistry Colloquium for Emerging Senior Scientists, [ACCESS XVII](https://www.bnl.gov/accesscolloquium), at Brookhaven National Laboratory. 
 
 
 ### Academic Background  
-- **PDRA** Department of Biosciences, University of Sheffield (2021 - present)
+- **Lecturer** Department of Meteorology, University of Reading (2024 - )
+- **PDRA** School of Biosciences, University of Sheffield (2021 - 2024)
 - **PhD** *Improving the understanding of the influence of emissions of biogenic volatile organic compounds on climate* Yusef Hamied Department of Chemistry, University of Cambridge (2018-2021)
 - **MA, MSci** Natural Sciences (Chemistry) Pembroke College, University of Cambridge (2012-2016)
 
