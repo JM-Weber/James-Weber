@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 logo: Github_1.jpeg
 github:
    is_project_page: false
-description: Email j.weber@sheffield.ac.uk
+description: Email j.m.weber@reading.ac.uk
 
 color-scheme: auto
 plugins:
