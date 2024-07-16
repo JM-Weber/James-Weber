@@ -21,8 +21,7 @@ I attended the Seventeenth Atmospheric Chemistry Colloquium for Emerging Senior 
 
 ### External Links
 
-- [Sheffield Profile](https://www.sheffield.ac.uk/biosciences/people/research-staff/james-weber)
+- [Reading Profile](https://research.reading.ac.uk/meteorology/people/james-weber/)
 - [The Conversation - Covid19 and Climate](https://theconversation.com/why-lockdown-had-little-to-no-effect-on-global-temperatures-148129)
-- [Val Martin Group Website](https://mariavalmartin.wordpress.com)
 - [Twitter](https://twitter.com/Atmos_Pem)
 
